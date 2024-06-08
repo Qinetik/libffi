@@ -2,7 +2,7 @@ Prebuilt
 ========
 
 After configuring libffi, files were copied so that master branch could be built. Now we just merge changes from
-libffi master and then run ./configure and then make in the arch folder to create a .libs folder inside where the libraries are
+libffi master and then run `./configure` and then `make` in the Target folder to create a .libs folder inside the Target folder
 
 The prebuilt libraries are present in each Target's .libs folder for example
 
