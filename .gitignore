@@ -1,5 +1,4 @@
 .libs
-!*/.libs
 .deps
 *.o
 *.lo
@@ -45,3 +44,6 @@ __pycache__
 .docker_home
 emsdk
 test-results
+
+!build
+!build/**/**
