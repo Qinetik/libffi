@@ -6,7 +6,7 @@ libffi master and then run `./configure` and then `make` in the Target folder to
 
 The prebuilt libraries are present in each Target's .libs folder for example
 
-- x86_64-pc-linux-gnu/.libs
+- build/x86_64-pc-linux-gnu/.libs
 
 Status
 ======
